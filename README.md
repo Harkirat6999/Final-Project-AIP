@@ -1,2 +1,2 @@
-# Final-Project-AIP
+# Student voice
 Final project
