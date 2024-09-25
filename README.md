@@ -1,2 +1,2 @@
-# Student voice
+# Student Voice
 Final project
