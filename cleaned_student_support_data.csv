@@ -1,0 +1,501 @@
+Category,Subcategory,Question,Response,Keyword,Urgency Level
+Accommodation,Room Transfers,Who can I contact for... room transfers?,The best option would be to...,assignment,Low
+Academic Help,Exam Preparation,What should I do if... exam preparation?,You can try...,exam,Medium
+Clubs and Societies,Leadership Roles,Can you help me with... leadership roles?,You can find more information at...,housing,Low
+Financial Aid,Scholarships,Can you help me with... scholarships?,It's best to reach out to...,mental health,Medium
+Campus Life,Events,What should I do if... events?,You may want to check...,housing,High
+Career Advice,Career Fair,How can I improve... career fair?,It's best to reach out to...,career,Low
+IT Support,Software Installation,Where can I find... software installation?,Please visit...,assignment,High
+Career Advice,Resume Writing,What resources are available for... resume writing?,I recommend you contact...,scholarship,High
+Library Services,Library Fines,I need assistance with... library fines?,You may want to check...,events,High
+Campus Life,Dining Options,Can you help me with... dining options?,You can try...,finance,Medium
+Career Advice,Resume Writing,I need assistance with... resume writing?,You may want to check...,exam,Low
+Mental Health,Anxiety,Who can I contact for... anxiety?,I recommend you contact...,IT support,Low
+Financial Aid,Budgeting Tips,I need assistance with... budgeting tips?,Here is a resource that might help...,assignment,Low
+Mental Health,Depression,Who can I contact for... depression?,You may want to check...,IT support,Medium
+Health Services,Vaccination,Where can I find... vaccination?,The best option would be to...,finance,Low
+Academic Help,Study Tips,Where can I find... study tips?,You should consider...,library,Low
+Clubs and Societies,Club Events,How can I improve... club events?,Please visit...,housing,High
+Academic Help,Exam Preparation,How can I improve... exam preparation?,I recommend you contact...,mental health,Low
+Clubs and Societies,Membership Fees,What resources are available for... membership fees?,You can find more information at...,clubs,Medium
+Mental Health,Depression,What should I do if... depression?,Our services can assist you with...,password,Low
+Career Advice,Resume Writing,Can you help me with... resume writing?,You can find more information at...,mental health,High
+Accommodation,Dorm Rules,What should I do if... dorm rules?,You may want to check...,password,Low
+Clubs and Societies,Membership Fees,I need assistance with... membership fees?,I recommend you contact...,mental health,Low
+Financial Aid,Scholarships,What should I do if... scholarships?,You may want to check...,IT support,High
+Library Services,Study Room Booking,I need assistance with... study room booking?,The best option would be to...,job search,Low
+Career Advice,Internships,I need assistance with... internships?,I recommend you contact...,events,Medium
+Accommodation,Maintenance Requests,How can I improve... maintenance requests?,You can find more information at...,IT support,Low
+Campus Life,Student ID,How can I improve... student id?,I recommend you contact...,password,Medium
+Clubs and Societies,Membership Fees,How can I improve... membership fees?,You may want to check...,career,High
+IT Support,Wi-Fi Issues,Can you help me with... wi-fi issues?,You should consider...,study,Medium
+Clubs and Societies,Club Funding,Who can I contact for... club funding?,Here is a resource that might help...,library,High
+Clubs and Societies,Joining a Club,Can you help me with... joining a club?,It's best to reach out to...,library,High
+Career Advice,Interview Tips,How can I improve... interview tips?,You should consider...,stress,Low
+Career Advice,Job Search,Is there a way to... job search?,The best option would be to...,health,Medium
+Accommodation,Off-campus Housing,Can you help me with... off-campus housing?,I recommend you contact...,mental health,Low
+Campus Life,Student ID,What resources are available for... student id?,You can find more information at...,career,High
+Career Advice,Internships,What should I do if... internships?,You can try...,stress,Low
+IT Support,Email Problems,Who can I contact for... email problems?,You may want to check...,housing,High
+Financial Aid,Scholarships,How do I... scholarships?,Our services can assist you with...,finance,High
+Academic Help,Tutoring,Can you help me with... tutoring?,Our services can assist you with...,health,Medium
+Mental Health,Depression,How do I... depression?,I recommend you contact...,library,Medium
+Academic Help,Tutoring,What resources are available for... tutoring?,Our services can assist you with...,study,Medium
+IT Support,Wi-Fi Issues,Is there a way to... wi-fi issues?,Here is a resource that might help...,scholarship,Medium
+Campus Life,Clubs,Who can I contact for... clubs?,Our services can assist you with...,study,Medium
+Clubs and Societies,Joining a Club,What are the steps for... joining a club?,It's best to reach out to...,exam,Low
+Academic Help,Course Selection,Is there a way to... course selection?,You may want to check...,career,Medium
+Clubs and Societies,Club Funding,How do I... club funding?,Our services can assist you with...,password,Low
+Mental Health,Anxiety,What should I do if... anxiety?,You may want to check...,finance,Low
+Academic Help,Study Tips,I need assistance with... study tips?,I recommend you contact...,password,High
+Mental Health,Counseling Services,Who can I contact for... counseling services?,Our services can assist you with...,stress,Low
+IT Support,Computer Lab Access,What should I do if... computer lab access?,You can try...,events,High
+Campus Life,Student ID,I need assistance with... student id?,The best option would be to...,study,Low
+Library Services,Book Loans,How do I... book loans?,The best option would be to...,library,High
+Career Advice,Career Fair,Can you help me with... career fair?,I recommend you contact...,job search,Medium
+Accommodation,Roommate Issues,What are the steps for... roommate issues?,You can try...,scholarship,High
+Health Services,Dietary Advice,Can you help me with... dietary advice?,You may want to check...,library,Low
+Career Advice,Interview Tips,Who can I contact for... interview tips?,Please visit...,clubs,High
+Clubs and Societies,Leadership Roles,What should I do if... leadership roles?,Our services can assist you with...,job search,Medium
+Financial Aid,Budgeting Tips,What should I do if... budgeting tips?,You should consider...,job search,Low
+Library Services,Library Fines,Can you help me with... library fines?,The best option would be to...,scholarship,Medium
+Career Advice,Job Search,Who can I contact for... job search?,Please visit...,job search,Medium
+Clubs and Societies,Membership Fees,Who can I contact for... membership fees?,Our services can assist you with...,job search,High
+Library Services,Online Resources,Is there a way to... online resources?,Please visit...,job search,High
+Academic Help,Assignment Help,What are the steps for... assignment help?,Our services can assist you with...,study,High
+IT Support,Password Reset,What resources are available for... password reset?,Our services can assist you with...,events,Medium
+IT Support,Computer Lab Access,How do I... computer lab access?,It's best to reach out to...,stress,Medium
+Accommodation,Off-campus Housing,What should I do if... off-campus housing?,You may want to check...,study,Low
+Financial Aid,Tuition Payment,Who can I contact for... tuition payment?,It's best to reach out to...,IT support,Low
+IT Support,Password Reset,Can you help me with... password reset?,You can try...,stress,High
+Financial Aid,Bursaries,What are the steps for... bursaries?,I recommend you contact...,events,High
+Campus Life,Dining Options,Is there a way to... dining options?,Our services can assist you with...,assignment,Low
+Academic Help,Exam Preparation,Is there a way to... exam preparation?,The best option would be to...,scholarship,High
+Academic Help,Exam Preparation,Where can I find... exam preparation?,The best option would be to...,exam,High
+Financial Aid,Loans,What are the steps for... loans?,You can try...,assignment,High
+Mental Health,Exam Stress,How can I improve... exam stress?,You can find more information at...,events,High
+Accommodation,Off-campus Housing,How can I improve... off-campus housing?,The best option would be to...,exam,High
+IT Support,Computer Lab Access,Is there a way to... computer lab access?,You can find more information at...,scholarship,High
+Library Services,Online Resources,How do I... online resources?,Please visit...,mental health,Medium
+Accommodation,Roommate Issues,How can I improve... roommate issues?,It's best to reach out to...,clubs,Medium
+Health Services,Vaccination,What should I do if... vaccination?,You can find more information at...,IT support,Low
+Mental Health,Time Management,Who can I contact for... time management?,You can find more information at...,clubs,Low
+Mental Health,Exam Stress,Who can I contact for... exam stress?,You should consider...,career,Low
+Academic Help,Exam Preparation,Can you help me with... exam preparation?,The best option would be to...,library,Low
+Clubs and Societies,Membership Fees,What are the steps for... membership fees?,Here is a resource that might help...,career,Low
+Campus Life,Events,Can you help me with... events?,Our services can assist you with...,assignment,High
+Clubs and Societies,Leadership Roles,Who can I contact for... leadership roles?,You should consider...,mental health,Low
+Academic Help,Course Selection,What are the steps for... course selection?,You should consider...,assignment,High
+Campus Life,Clubs,Can you help me with... clubs?,You can find more information at...,health,Medium
+Career Advice,Interview Tips,Can you help me with... interview tips?,I recommend you contact...,job search,Medium
+Mental Health,Time Management,Is there a way to... time management?,You can try...,mental health,High
+Health Services,Emergency Services,How do I... emergency services?,Here is a resource that might help...,password,Medium
+Campus Life,Transportation,Who can I contact for... transportation?,The best option would be to...,clubs,Low
+Financial Aid,Tuition Payment,What should I do if... tuition payment?,Our services can assist you with...,housing,High
+Health Services,Vaccination,Who can I contact for... vaccination?,Our services can assist you with...,exam,Medium
+Accommodation,Maintenance Requests,What resources are available for... maintenance requests?,I recommend you contact...,job search,Medium
+Academic Help,Course Selection,Where can I find... course selection?,Here is a resource that might help...,study,Low
+Campus Life,Student ID,What are the steps for... student id?,Please visit...,assignment,High
+Financial Aid,Bursaries,Where can I find... bursaries?,Please visit...,career,Medium
+Library Services,Library Fines,What are the steps for... library fines?,You may want to check...,housing,High
+Clubs and Societies,Joining a Club,Who can I contact for... joining a club?,It's best to reach out to...,exam,Medium
+Financial Aid,Tuition Payment,Can you help me with... tuition payment?,You may want to check...,library,Low
+Financial Aid,Budgeting Tips,Is there a way to... budgeting tips?,The best option would be to...,health,Low
+Academic Help,Assignment Help,How can I improve... assignment help?,Here is a resource that might help...,events,Low
+Accommodation,Off-campus Housing,Where can I find... off-campus housing?,You can find more information at...,career,Medium
+Financial Aid,Bursaries,Who can I contact for... bursaries?,It's best to reach out to...,finance,High
+Clubs and Societies,Club Funding,What are the steps for... club funding?,It's best to reach out to...,events,Low
+Library Services,Printing Services,What should I do if... printing services?,Please visit...,events,Medium
+Financial Aid,Bursaries,What should I do if... bursaries?,Our services can assist you with...,IT support,High
+Accommodation,Roommate Issues,Is there a way to... roommate issues?,You may want to check...,IT support,High
+Health Services,Health Insurance,How can I improve... health insurance?,It's best to reach out to...,housing,Medium
+Library Services,Study Room Booking,Who can I contact for... study room booking?,You may want to check...,library,Medium
+Campus Life,Transportation,Where can I find... transportation?,You can find more information at...,study,Medium
+IT Support,Email Problems,What resources are available for... email problems?,You can try...,exam,High
+Health Services,Dietary Advice,I need assistance with... dietary advice?,You can find more information at...,study,High
+Mental Health,Anxiety,Where can I find... anxiety?,Please visit...,career,Medium
+IT Support,Email Problems,Where can I find... email problems?,You may want to check...,events,Medium
+Mental Health,Exam Stress,I need assistance with... exam stress?,I recommend you contact...,career,High
+Mental Health,Exam Stress,What are the steps for... exam stress?,Here is a resource that might help...,stress,High
+IT Support,Wi-Fi Issues,Where can I find... wi-fi issues?,You should consider...,mental health,High
+Mental Health,Counseling Services,Can you help me with... counseling services?,You can find more information at...,exam,Medium
+Academic Help,Assignment Help,Who can I contact for... assignment help?,The best option would be to...,IT support,Low
+Health Services,Health Insurance,How do I... health insurance?,The best option would be to...,health,Medium
+Campus Life,Student ID,What should I do if... student id?,Here is a resource that might help...,IT support,High
+Mental Health,Anxiety,Is there a way to... anxiety?,Please visit...,exam,Medium
+Campus Life,Events,What resources are available for... events?,The best option would be to...,scholarship,Medium
+Accommodation,Roommate Issues,Where can I find... roommate issues?,You can find more information at...,exam,Low
+Career Advice,Resume Writing,What are the steps for... resume writing?,You may want to check...,exam,Low
+Accommodation,Maintenance Requests,What should I do if... maintenance requests?,You can find more information at...,finance,High
+Library Services,Book Loans,Can you help me with... book loans?,You may want to check...,finance,Medium
+IT Support,Email Problems,How do I... email problems?,It's best to reach out to...,assignment,Medium
+IT Support,Computer Lab Access,What are the steps for... computer lab access?,You can try...,library,High
+Academic Help,Study Tips,How do I... study tips?,You can try...,assignment,Medium
+Mental Health,Counseling Services,How do I... counseling services?,The best option would be to...,password,High
+Mental Health,Anxiety,How do I... anxiety?,You can find more information at...,mental health,High
+Health Services,Emergency Services,What should I do if... emergency services?,I recommend you contact...,password,Medium
+Library Services,Library Fines,What resources are available for... library fines?,The best option would be to...,study,High
+Campus Life,Transportation,What should I do if... transportation?,It's best to reach out to...,IT support,Low
+Clubs and Societies,Club Events,Can you help me with... club events?,Please visit...,job search,Low
+Accommodation,Room Transfers,What are the steps for... room transfers?,Please visit...,health,Low
+Library Services,Online Resources,I need assistance with... online resources?,The best option would be to...,exam,High
+Library Services,Printing Services,What resources are available for... printing services?,Here is a resource that might help...,study,Low
+Financial Aid,Loans,How do I... loans?,Here is a resource that might help...,job search,Medium
+IT Support,Software Installation,I need assistance with... software installation?,I recommend you contact...,exam,Medium
+Library Services,Book Loans,Who can I contact for... book loans?,I recommend you contact...,career,Medium
+Career Advice,Resume Writing,Who can I contact for... resume writing?,You may want to check...,password,High
+Academic Help,Study Tips,How can I improve... study tips?,Here is a resource that might help...,exam,Low
+Library Services,Study Room Booking,Can you help me with... study room booking?,It's best to reach out to...,IT support,Low
+Mental Health,Counseling Services,Is there a way to... counseling services?,You should consider...,career,High
+Accommodation,Maintenance Requests,I need assistance with... maintenance requests?,You can try...,scholarship,Low
+Library Services,Library Fines,Is there a way to... library fines?,Here is a resource that might help...,events,Low
+Academic Help,Tutoring,What are the steps for... tutoring?,I recommend you contact...,clubs,Low
+Mental Health,Time Management,What are the steps for... time management?,You should consider...,study,Low
+Library Services,Printing Services,How do I... printing services?,You should consider...,IT support,Low
+Clubs and Societies,Joining a Club,Is there a way to... joining a club?,Here is a resource that might help...,assignment,Medium
+IT Support,Software Installation,What are the steps for... software installation?,Please visit...,study,High
+Career Advice,Career Fair,Who can I contact for... career fair?,You can find more information at...,clubs,Low
+Campus Life,Student ID,Can you help me with... student id?,Please visit...,clubs,Medium
+Financial Aid,Budgeting Tips,How do I... budgeting tips?,You can find more information at...,finance,High
+Campus Life,Events,How do I... events?,You can find more information at...,mental health,Low
+Clubs and Societies,Leadership Roles,What resources are available for... leadership roles?,Please visit...,stress,Low
+Mental Health,Depression,What are the steps for... depression?,You can find more information at...,library,High
+Career Advice,Career Fair,Is there a way to... career fair?,It's best to reach out to...,events,High
+Clubs and Societies,Leadership Roles,How can I improve... leadership roles?,I recommend you contact...,finance,Medium
+Accommodation,Off-campus Housing,I need assistance with... off-campus housing?,The best option would be to...,housing,High
+Academic Help,Tutoring,What should I do if... tutoring?,It's best to reach out to...,IT support,High
+Health Services,Dietary Advice,How can I improve... dietary advice?,It's best to reach out to...,exam,Low
+Clubs and Societies,Joining a Club,How do I... joining a club?,You can try...,study,High
+IT Support,Software Installation,What resources are available for... software installation?,You may want to check...,career,Low
+Career Advice,Interview Tips,What resources are available for... interview tips?,I recommend you contact...,study,Low
+Financial Aid,Scholarships,I need assistance with... scholarships?,Here is a resource that might help...,library,Low
+Health Services,Health Insurance,What should I do if... health insurance?,You may want to check...,job search,Medium
+Academic Help,Tutoring,Is there a way to... tutoring?,It's best to reach out to...,exam,Low
+IT Support,Wi-Fi Issues,I need assistance with... wi-fi issues?,You may want to check...,exam,Low
+Library Services,Library Fines,Who can I contact for... library fines?,The best option would be to...,password,Low
+Library Services,Online Resources,Who can I contact for... online resources?,Our services can assist you with...,scholarship,Medium
+Financial Aid,Tuition Payment,How can I improve... tuition payment?,You may want to check...,health,High
+Health Services,Vaccination,What resources are available for... vaccination?,The best option would be to...,assignment,High
+Career Advice,Career Fair,What resources are available for... career fair?,Please visit...,finance,High
+Financial Aid,Scholarships,Where can I find... scholarships?,Please visit...,scholarship,Low
+Campus Life,Dining Options,How can I improve... dining options?,You can try...,career,Medium
+Academic Help,Course Selection,What resources are available for... course selection?,The best option would be to...,stress,Low
+Library Services,Study Room Booking,How do I... study room booking?,You can find more information at...,exam,High
+Mental Health,Depression,Is there a way to... depression?,You can find more information at...,stress,Medium
+IT Support,Password Reset,Where can I find... password reset?,Here is a resource that might help...,IT support,High
+Library Services,Printing Services,What are the steps for... printing services?,You should consider...,career,High
+Library Services,Printing Services,How can I improve... printing services?,Here is a resource that might help...,IT support,High
+Clubs and Societies,Club Events,Is there a way to... club events?,The best option would be to...,scholarship,Low
+Academic Help,Course Selection,Can you help me with... course selection?,Our services can assist you with...,exam,High
+Financial Aid,Budgeting Tips,What are the steps for... budgeting tips?,You can try...,clubs,High
+Clubs and Societies,Club Funding,What resources are available for... club funding?,Here is a resource that might help...,health,Low
+Campus Life,Events,Where can I find... events?,Here is a resource that might help...,password,Medium
+IT Support,Wi-Fi Issues,What should I do if... wi-fi issues?,You can try...,study,Medium
+Clubs and Societies,Club Events,Where can I find... club events?,I recommend you contact...,finance,Medium
+Mental Health,Depression,How can I improve... depression?,Please visit...,assignment,Medium
+Financial Aid,Budgeting Tips,Who can I contact for... budgeting tips?,I recommend you contact...,IT support,Low
+Accommodation,Off-campus Housing,Is there a way to... off-campus housing?,Here is a resource that might help...,career,High
+IT Support,Wi-Fi Issues,What are the steps for... wi-fi issues?,I recommend you contact...,password,Medium
+Mental Health,Time Management,Can you help me with... time management?,Our services can assist you with...,library,Low
+Accommodation,Dorm Rules,How do I... dorm rules?,Please visit...,IT support,High
+IT Support,Password Reset,How can I improve... password reset?,I recommend you contact...,study,Medium
+Mental Health,Anxiety,How can I improve... anxiety?,Here is a resource that might help...,housing,Low
+Career Advice,Resume Writing,Where can I find... resume writing?,Here is a resource that might help...,health,Low
+Career Advice,Job Search,What resources are available for... job search?,Here is a resource that might help...,events,Medium
+Campus Life,Transportation,How can I improve... transportation?,I recommend you contact...,exam,High
+Health Services,Emergency Services,What are the steps for... emergency services?,You can find more information at...,IT support,Medium
+Academic Help,Tutoring,I need assistance with... tutoring?,You may want to check...,scholarship,Medium
+Campus Life,Clubs,What resources are available for... clubs?,You can find more information at...,events,Medium
+Health Services,Health Insurance,What resources are available for... health insurance?,Please visit...,password,Low
+Health Services,Vaccination,How can I improve... vaccination?,You may want to check...,clubs,Medium
+Library Services,Book Loans,Where can I find... book loans?,Here is a resource that might help...,stress,High
+Accommodation,Off-campus Housing,What are the steps for... off-campus housing?,I recommend you contact...,career,Low
+Clubs and Societies,Membership Fees,Can you help me with... membership fees?,I recommend you contact...,exam,Medium
+Campus Life,Transportation,Can you help me with... transportation?,Here is a resource that might help...,password,Low
+Mental Health,Exam Stress,What should I do if... exam stress?,I recommend you contact...,health,High
+Financial Aid,Tuition Payment,Where can I find... tuition payment?,The best option would be to...,IT support,Low
+Academic Help,Tutoring,How can I improve... tutoring?,You may want to check...,scholarship,High
+Accommodation,Roommate Issues,Can you help me with... roommate issues?,Please visit...,exam,Medium
+Library Services,Printing Services,Where can I find... printing services?,Here is a resource that might help...,IT support,Low
+Financial Aid,Loans,Is there a way to... loans?,Here is a resource that might help...,career,High
+Accommodation,Room Transfers,Is there a way to... room transfers?,Please visit...,IT support,Low
+Career Advice,Internships,Who can I contact for... internships?,You can try...,job search,Medium
+Clubs and Societies,Membership Fees,Where can I find... membership fees?,It's best to reach out to...,finance,Low
+Campus Life,Clubs,I need assistance with... clubs?,You should consider...,job search,Medium
+Academic Help,Assignment Help,Can you help me with... assignment help?,I recommend you contact...,housing,Medium
+Accommodation,Room Transfers,What resources are available for... room transfers?,Here is a resource that might help...,study,High
+Mental Health,Exam Stress,What resources are available for... exam stress?,Our services can assist you with...,exam,High
+IT Support,Password Reset,What are the steps for... password reset?,You should consider...,finance,Medium
+Accommodation,Dorm Rules,Where can I find... dorm rules?,You can try...,study,Medium
+Financial Aid,Loans,Where can I find... loans?,You may want to check...,password,Low
+Mental Health,Counseling Services,What should I do if... counseling services?,Please visit...,study,Medium
+Career Advice,Resume Writing,What should I do if... resume writing?,You can try...,IT support,High
+Academic Help,Course Selection,What should I do if... course selection?,You can try...,IT support,Medium
+Clubs and Societies,Joining a Club,What resources are available for... joining a club?,Here is a resource that might help...,password,Low
+Health Services,Emergency Services,Where can I find... emergency services?,Here is a resource that might help...,career,Low
+Academic Help,Course Selection,How do I... course selection?,It's best to reach out to...,IT support,High
+Accommodation,Off-campus Housing,How do I... off-campus housing?,It's best to reach out to...,finance,Low
+Academic Help,Course Selection,I need assistance with... course selection?,Please visit...,mental health,High
+Library Services,Online Resources,What are the steps for... online resources?,You can find more information at...,scholarship,Low
+Clubs and Societies,Club Events,I need assistance with... club events?,Here is a resource that might help...,housing,Medium
+Career Advice,Internships,Can you help me with... internships?,The best option would be to...,assignment,Low
+Clubs and Societies,Leadership Roles,Is there a way to... leadership roles?,It's best to reach out to...,events,Medium
+IT Support,Email Problems,Can you help me with... email problems?,You should consider...,study,Low
+Library Services,Online Resources,Where can I find... online resources?,I recommend you contact...,job search,High
+Academic Help,Study Tips,Can you help me with... study tips?,It's best to reach out to...,clubs,High
+Library Services,Library Fines,Where can I find... library fines?,You can find more information at...,mental health,High
+Career Advice,Interview Tips,I need assistance with... interview tips?,The best option would be to...,IT support,Medium
+Accommodation,Dorm Rules,Is there a way to... dorm rules?,You should consider...,password,Medium
+Mental Health,Counseling Services,How can I improve... counseling services?,Here is a resource that might help...,assignment,Low
+Accommodation,Dorm Rules,I need assistance with... dorm rules?,I recommend you contact...,stress,High
+Library Services,Library Fines,How can I improve... library fines?,You can try...,IT support,Low
+Health Services,Dietary Advice,Who can I contact for... dietary advice?,Please visit...,finance,Low
+Financial Aid,Bursaries,Is there a way to... bursaries?,It's best to reach out to...,assignment,High
+Health Services,Medical Appointments,What should I do if... medical appointments?,You should consider...,mental health,High
+IT Support,Software Installation,What should I do if... software installation?,You can find more information at...,assignment,Medium
+Accommodation,Roommate Issues,How do I... roommate issues?,It's best to reach out to...,library,Low
+Campus Life,Student ID,How do I... student id?,Here is a resource that might help...,library,Medium
+Academic Help,Study Tips,What are the steps for... study tips?,I recommend you contact...,finance,Low
+IT Support,Software Installation,Is there a way to... software installation?,Here is a resource that might help...,mental health,Medium
+Mental Health,Counseling Services,What are the steps for... counseling services?,It's best to reach out to...,assignment,Medium
+Career Advice,Career Fair,What are the steps for... career fair?,It's best to reach out to...,assignment,Low
+Library Services,Book Loans,I need assistance with... book loans?,Our services can assist you with...,mental health,Low
+Health Services,Emergency Services,What resources are available for... emergency services?,Please visit...,exam,Low
+Health Services,Medical Appointments,Can you help me with... medical appointments?,You may want to check...,mental health,High
+Mental Health,Time Management,How can I improve... time management?,Here is a resource that might help...,finance,High
+Accommodation,Dorm Rules,How can I improve... dorm rules?,The best option would be to...,password,Medium
+Financial Aid,Bursaries,Can you help me with... bursaries?,The best option would be to...,password,Low
+IT Support,Email Problems,What are the steps for... email problems?,Here is a resource that might help...,events,Medium
+Career Advice,Internships,What are the steps for... internships?,You can find more information at...,events,Medium
+Health Services,Vaccination,What are the steps for... vaccination?,Here is a resource that might help...,password,Low
+Career Advice,Job Search,How do I... job search?,Here is a resource that might help...,stress,Medium
+Library Services,Printing Services,Can you help me with... printing services?,Please visit...,library,Low
+Financial Aid,Scholarships,What are the steps for... scholarships?,Please visit...,health,Medium
+Campus Life,Dining Options,Who can I contact for... dining options?,You can find more information at...,assignment,High
+Mental Health,Time Management,What resources are available for... time management?,You can find more information at...,career,Low
+IT Support,Password Reset,How do I... password reset?,You should consider...,clubs,High
+Health Services,Emergency Services,Who can I contact for... emergency services?,Our services can assist you with...,IT support,Low
+Financial Aid,Tuition Payment,What resources are available for... tuition payment?,You can try...,mental health,Medium
+Health Services,Health Insurance,Can you help me with... health insurance?,The best option would be to...,finance,Medium
+Financial Aid,Scholarships,What resources are available for... scholarships?,You may want to check...,scholarship,Low
+Campus Life,Events,What are the steps for... events?,I recommend you contact...,finance,Low
+Accommodation,Dorm Rules,What are the steps for... dorm rules?,You can find more information at...,career,Medium
+Campus Life,Student ID,Who can I contact for... student id?,It's best to reach out to...,library,Low
+Clubs and Societies,Joining a Club,How can I improve... joining a club?,You should consider...,mental health,Low
+Financial Aid,Budgeting Tips,How can I improve... budgeting tips?,Our services can assist you with...,housing,Medium
+Academic Help,Assignment Help,I need assistance with... assignment help?,It's best to reach out to...,stress,High
+Campus Life,Events,I need assistance with... events?,Here is a resource that might help...,IT support,High
+Campus Life,Dining Options,How do I... dining options?,The best option would be to...,events,Medium
+Financial Aid,Scholarships,How can I improve... scholarships?,Here is a resource that might help...,clubs,Medium
+Health Services,Medical Appointments,What are the steps for... medical appointments?,Please visit...,study,Medium
+Financial Aid,Scholarships,Is there a way to... scholarships?,It's best to reach out to...,library,Medium
+Clubs and Societies,Club Funding,I need assistance with... club funding?,I recommend you contact...,career,Low
+Accommodation,Off-campus Housing,What resources are available for... off-campus housing?,You should consider...,library,Low
+Campus Life,Transportation,Is there a way to... transportation?,You can find more information at...,housing,Medium
+Mental Health,Counseling Services,Where can I find... counseling services?,I recommend you contact...,mental health,Medium
+Mental Health,Exam Stress,How do I... exam stress?,It's best to reach out to...,password,Low
+IT Support,Password Reset,Is there a way to... password reset?,Our services can assist you with...,IT support,Low
+Clubs and Societies,Joining a Club,Where can I find... joining a club?,Please visit...,health,Low
+Clubs and Societies,Membership Fees,How do I... membership fees?,The best option would be to...,clubs,Low
+Mental Health,Anxiety,I need assistance with... anxiety?,You may want to check...,stress,Low
+IT Support,Computer Lab Access,Who can I contact for... computer lab access?,Our services can assist you with...,assignment,Medium
+Clubs and Societies,Club Funding,Is there a way to... club funding?,It's best to reach out to...,health,Low
+IT Support,Email Problems,Is there a way to... email problems?,It's best to reach out to...,assignment,High
+Clubs and Societies,Leadership Roles,How do I... leadership roles?,It's best to reach out to...,IT support,High
+IT Support,Email Problems,How can I improve... email problems?,You may want to check...,stress,Medium
+IT Support,Password Reset,What should I do if... password reset?,I recommend you contact...,health,Medium
+Career Advice,Resume Writing,Is there a way to... resume writing?,I recommend you contact...,clubs,Medium
+Academic Help,Tutoring,How do I... tutoring?,You should consider...,career,Medium
+Career Advice,Job Search,How can I improve... job search?,I recommend you contact...,IT support,Low
+Health Services,Dietary Advice,What are the steps for... dietary advice?,The best option would be to...,finance,Medium
+Mental Health,Exam Stress,Is there a way to... exam stress?,You should consider...,assignment,Low
+Career Advice,Career Fair,I need assistance with... career fair?,You can find more information at...,housing,Low
+Academic Help,Study Tips,What should I do if... study tips?,You may want to check...,study,High
+Campus Life,Clubs,How can I improve... clubs?,Please visit...,clubs,High
+Academic Help,Exam Preparation,How do I... exam preparation?,You can try...,job search,High
+Health Services,Emergency Services,Can you help me with... emergency services?,Please visit...,library,High
+Financial Aid,Budgeting Tips,Where can I find... budgeting tips?,You can find more information at...,job search,Medium
+Career Advice,Internships,Is there a way to... internships?,You should consider...,scholarship,High
+Academic Help,Tutoring,Who can I contact for... tutoring?,Our services can assist you with...,IT support,Medium
+Accommodation,Maintenance Requests,Can you help me with... maintenance requests?,You can find more information at...,career,High
+Accommodation,Roommate Issues,What resources are available for... roommate issues?,You can find more information at...,mental health,Medium
+Career Advice,Career Fair,What should I do if... career fair?,I recommend you contact...,assignment,Low
+Campus Life,Events,Is there a way to... events?,You can try...,assignment,Medium
+IT Support,Password Reset,Who can I contact for... password reset?,The best option would be to...,study,Medium
+Health Services,Medical Appointments,How do I... medical appointments?,You may want to check...,housing,High
+Accommodation,Maintenance Requests,Who can I contact for... maintenance requests?,The best option would be to...,mental health,Low
+Financial Aid,Tuition Payment,What are the steps for... tuition payment?,It's best to reach out to...,exam,Low
+Academic Help,Tutoring,Where can I find... tutoring?,You can find more information at...,mental health,Medium
+Financial Aid,Budgeting Tips,Can you help me with... budgeting tips?,Our services can assist you with...,events,Low
+Library Services,Book Loans,What should I do if... book loans?,Here is a resource that might help...,health,High
+Career Advice,Career Fair,How do I... career fair?,You can find more information at...,health,Medium
+Accommodation,Room Transfers,Can you help me with... room transfers?,You should consider...,library,High
+Academic Help,Course Selection,Who can I contact for... course selection?,You should consider...,health,Low
+Academic Help,Assignment Help,What resources are available for... assignment help?,Our services can assist you with...,career,Low
+Library Services,Book Loans,What are the steps for... book loans?,Here is a resource that might help...,password,Medium
+Clubs and Societies,Leadership Roles,Where can I find... leadership roles?,Our services can assist you with...,scholarship,High
+Mental Health,Time Management,I need assistance with... time management?,I recommend you contact...,assignment,Low
+Mental Health,Exam Stress,Can you help me with... exam stress?,It's best to reach out to...,scholarship,Medium
+Campus Life,Dining Options,I need assistance with... dining options?,Here is a resource that might help...,mental health,Low
+Campus Life,Student ID,Is there a way to... student id?,The best option would be to...,library,Medium
+Financial Aid,Tuition Payment,I need assistance with... tuition payment?,The best option would be to...,health,Low
+Library Services,Book Loans,Is there a way to... book loans?,I recommend you contact...,exam,High
+IT Support,Password Reset,I need assistance with... password reset?,The best option would be to...,scholarship,Medium
+Library Services,Book Loans,How can I improve... book loans?,Please visit...,job search,Medium
+IT Support,Software Installation,How can I improve... software installation?,It's best to reach out to...,housing,High
+Clubs and Societies,Club Funding,Can you help me with... club funding?,I recommend you contact...,IT support,High
+Mental Health,Depression,I need assistance with... depression?,Please visit...,study,Medium
+Financial Aid,Scholarships,Who can I contact for... scholarships?,I recommend you contact...,exam,High
+IT Support,Computer Lab Access,What resources are available for... computer lab access?,You can try...,assignment,Medium
+Career Advice,Job Search,Where can I find... job search?,You can try...,health,Medium
+IT Support,Computer Lab Access,Where can I find... computer lab access?,It's best to reach out to...,housing,Low
+Campus Life,Events,Who can I contact for... events?,You can find more information at...,exam,Low
+Campus Life,Clubs,What are the steps for... clubs?,You can try...,events,Medium
+Campus Life,Dining Options,Where can I find... dining options?,Here is a resource that might help...,password,High
+Clubs and Societies,Club Funding,How can I improve... club funding?,You may want to check...,IT support,Low
+Library Services,Library Fines,How do I... library fines?,I recommend you contact...,job search,Medium
+Library Services,Printing Services,Who can I contact for... printing services?,Our services can assist you with...,clubs,Medium
+Financial Aid,Loans,What resources are available for... loans?,The best option would be to...,stress,High
+Career Advice,Internships,How can I improve... internships?,It's best to reach out to...,assignment,High
+Clubs and Societies,Club Events,How do I... club events?,I recommend you contact...,career,High
+Career Advice,Interview Tips,Is there a way to... interview tips?,The best option would be to...,housing,Low
+IT Support,Computer Lab Access,How can I improve... computer lab access?,You should consider...,mental health,Low
+Library Services,Study Room Booking,What should I do if... study room booking?,You may want to check...,housing,Low
+Accommodation,Off-campus Housing,Who can I contact for... off-campus housing?,You should consider...,health,Medium
+Health Services,Medical Appointments,Who can I contact for... medical appointments?,Here is a resource that might help...,scholarship,Medium
+Academic Help,Study Tips,Who can I contact for... study tips?,You can find more information at...,study,Low
+Academic Help,Exam Preparation,What are the steps for... exam preparation?,Here is a resource that might help...,clubs,High
+Career Advice,Internships,What resources are available for... internships?,You can try...,library,Low
+Health Services,Health Insurance,I need assistance with... health insurance?,Our services can assist you with...,stress,Medium
+Accommodation,Maintenance Requests,Is there a way to... maintenance requests?,You can try...,scholarship,Medium
+Accommodation,Maintenance Requests,How do I... maintenance requests?,You can find more information at...,exam,High
+Health Services,Health Insurance,Who can I contact for... health insurance?,It's best to reach out to...,scholarship,Medium
+Mental Health,Counseling Services,What resources are available for... counseling services?,You should consider...,assignment,Low
+Accommodation,Roommate Issues,I need assistance with... roommate issues?,You may want to check...,scholarship,Medium
+Library Services,Online Resources,What should I do if... online resources?,The best option would be to...,finance,High
+Career Advice,Internships,Where can I find... internships?,Please visit...,job search,High
+Academic Help,Course Selection,How can I improve... course selection?,You can try...,health,High
+Health Services,Health Insurance,Is there a way to... health insurance?,Please visit...,scholarship,Low
+Academic Help,Study Tips,What resources are available for... study tips?,Our services can assist you with...,mental health,Medium
+Library Services,Library Fines,What should I do if... library fines?,You should consider...,job search,Medium
+Accommodation,Dorm Rules,Who can I contact for... dorm rules?,Our services can assist you with...,IT support,Low
+Accommodation,Room Transfers,What should I do if... room transfers?,Here is a resource that might help...,exam,Medium
+Library Services,Online Resources,How can I improve... online resources?,I recommend you contact...,library,High
+Mental Health,Depression,Where can I find... depression?,You may want to check...,finance,High
+Health Services,Medical Appointments,I need assistance with... medical appointments?,It's best to reach out to...,assignment,High
+Health Services,Emergency Services,How can I improve... emergency services?,You may want to check...,career,Medium
+Accommodation,Room Transfers,How can I improve... room transfers?,You can find more information at...,stress,Medium
+Accommodation,Dorm Rules,Can you help me with... dorm rules?,It's best to reach out to...,study,High
+Clubs and Societies,Leadership Roles,What are the steps for... leadership roles?,Our services can assist you with...,exam,High
+Financial Aid,Loans,How can I improve... loans?,You may want to check...,stress,Medium
+Mental Health,Exam Stress,Where can I find... exam stress?,You should consider...,exam,Medium
+IT Support,Wi-Fi Issues,How do I... wi-fi issues?,You should consider...,housing,High
+Mental Health,Time Management,Where can I find... time management?,It's best to reach out to...,career,High
+Career Advice,Resume Writing,How can I improve... resume writing?,You can try...,study,High
+Health Services,Medical Appointments,What resources are available for... medical appointments?,I recommend you contact...,health,High
+Health Services,Medical Appointments,How can I improve... medical appointments?,Please visit...,library,Low
+Library Services,Study Room Booking,What resources are available for... study room booking?,You can try...,password,Medium
+Career Advice,Resume Writing,How do I... resume writing?,It's best to reach out to...,mental health,High
+Health Services,Vaccination,I need assistance with... vaccination?,You may want to check...,library,High
+Career Advice,Job Search,I need assistance with... job search?,Our services can assist you with...,events,High
+Campus Life,Student ID,Where can I find... student id?,I recommend you contact...,clubs,High
+Academic Help,Exam Preparation,What resources are available for... exam preparation?,You can find more information at...,events,Low
+Academic Help,Exam Preparation,I need assistance with... exam preparation?,Our services can assist you with...,scholarship,High
+Campus Life,Transportation,How do I... transportation?,You can find more information at...,stress,Low
+Library Services,Printing Services,I need assistance with... printing services?,Here is a resource that might help...,library,Medium
+Health Services,Vaccination,Can you help me with... vaccination?,Here is a resource that might help...,assignment,Low
+IT Support,Software Installation,How do I... software installation?,You may want to check...,study,Medium
+Campus Life,Transportation,What are the steps for... transportation?,You can try...,mental health,High
+Mental Health,Anxiety,What are the steps for... anxiety?,You can find more information at...,password,Medium
+Clubs and Societies,Club Events,What should I do if... club events?,You may want to check...,mental health,Low
+Campus Life,Events,How can I improve... events?,It's best to reach out to...,study,Low
+Clubs and Societies,Membership Fees,What should I do if... membership fees?,You should consider...,scholarship,Medium
+Financial Aid,Tuition Payment,How do I... tuition payment?,You should consider...,events,Low
+Clubs and Societies,Club Funding,Where can I find... club funding?,Our services can assist you with...,finance,High
+Accommodation,Room Transfers,I need assistance with... room transfers?,You should consider...,scholarship,High
+Financial Aid,Budgeting Tips,What resources are available for... budgeting tips?,You can try...,clubs,High
+Clubs and Societies,Membership Fees,Is there a way to... membership fees?,You should consider...,health,High
+Health Services,Dietary Advice,What should I do if... dietary advice?,I recommend you contact...,library,Medium
+Mental Health,Time Management,What should I do if... time management?,Here is a resource that might help...,scholarship,Low
+Health Services,Medical Appointments,Where can I find... medical appointments?,Please visit...,events,High
+Campus Life,Dining Options,What should I do if... dining options?,It's best to reach out to...,password,Low
+Health Services,Dietary Advice,How do I... dietary advice?,Please visit...,mental health,Medium
+IT Support,Software Installation,Can you help me with... software installation?,You can find more information at...,password,High
+Health Services,Health Insurance,What are the steps for... health insurance?,The best option would be to...,finance,Medium
+Health Services,Vaccination,How do I... vaccination?,You should consider...,housing,High
+Clubs and Societies,Club Events,Who can I contact for... club events?,It's best to reach out to...,finance,Medium
+Health Services,Medical Appointments,Is there a way to... medical appointments?,You can find more information at...,career,Low
+Academic Help,Exam Preparation,Who can I contact for... exam preparation?,It's best to reach out to...,stress,Medium
+Academic Help,Assignment Help,Where can I find... assignment help?,The best option would be to...,health,Low
+IT Support,Computer Lab Access,Can you help me with... computer lab access?,You should consider...,finance,Low
+Career Advice,Interview Tips,What should I do if... interview tips?,You should consider...,password,High
+Clubs and Societies,Joining a Club,What should I do if... joining a club?,It's best to reach out to...,health,Medium
+Mental Health,Counseling Services,I need assistance with... counseling services?,You can try...,mental health,Low
+Health Services,Dietary Advice,Where can I find... dietary advice?,You can find more information at...,career,High
+Financial Aid,Tuition Payment,Is there a way to... tuition payment?,You can try...,career,High
+Campus Life,Clubs,Is there a way to... clubs?,The best option would be to...,clubs,Low
+Campus Life,Transportation,What resources are available for... transportation?,You can try...,clubs,High
+Health Services,Emergency Services,I need assistance with... emergency services?,Our services can assist you with...,events,High
+IT Support,Wi-Fi Issues,How can I improve... wi-fi issues?,Here is a resource that might help...,job search,Medium
+Campus Life,Clubs,How do I... clubs?,The best option would be to...,library,Medium
+Library Services,Study Room Booking,How can I improve... study room booking?,You should consider...,clubs,Low
+Accommodation,Room Transfers,Where can I find... room transfers?,Please visit...,career,Low
+Campus Life,Clubs,What should I do if... clubs?,The best option would be to...,mental health,Low
+IT Support,Computer Lab Access,I need assistance with... computer lab access?,The best option would be to...,job search,High
+Accommodation,Dorm Rules,What resources are available for... dorm rules?,Here is a resource that might help...,health,High
+Career Advice,Internships,How do I... internships?,Our services can assist you with...,mental health,High
+Campus Life,Dining Options,What resources are available for... dining options?,You can try...,finance,High
+Career Advice,Interview Tips,What are the steps for... interview tips?,Our services can assist you with...,clubs,High
+Mental Health,Depression,What resources are available for... depression?,It's best to reach out to...,password,Medium
+Clubs and Societies,Club Funding,What should I do if... club funding?,You should consider...,exam,Medium
+Campus Life,Transportation,I need assistance with... transportation?,You may want to check...,library,Low
+Career Advice,Job Search,What should I do if... job search?,I recommend you contact...,stress,Low
+Academic Help,Assignment Help,Is there a way to... assignment help?,You can find more information at...,scholarship,Medium
+Health Services,Dietary Advice,Is there a way to... dietary advice?,It's best to reach out to...,job search,Medium
+Mental Health,Anxiety,What resources are available for... anxiety?,Here is a resource that might help...,library,Low
+Library Services,Study Room Booking,What are the steps for... study room booking?,You should consider...,events,Medium
+Career Advice,Career Fair,Where can I find... career fair?,It's best to reach out to...,clubs,High
+Library Services,Book Loans,What resources are available for... book loans?,You can try...,password,Medium
+Financial Aid,Loans,Who can I contact for... loans?,You should consider...,job search,Medium
+Academic Help,Assignment Help,What should I do if... assignment help?,You can find more information at...,stress,Medium
+Financial Aid,Bursaries,What resources are available for... bursaries?,Here is a resource that might help...,health,High
+Campus Life,Clubs,Where can I find... clubs?,You can try...,IT support,Medium
+IT Support,Software Installation,Who can I contact for... software installation?,You should consider...,job search,Medium
+Career Advice,Job Search,Can you help me with... job search?,You can try...,events,Medium
+Campus Life,Dining Options,What are the steps for... dining options?,You can find more information at...,events,Low
+Clubs and Societies,Club Events,What are the steps for... club events?,You can try...,health,Medium
+Academic Help,Study Tips,Is there a way to... study tips?,You can try...,library,Low
+Health Services,Dietary Advice,What resources are available for... dietary advice?,You can try...,job search,High
+Clubs and Societies,Leadership Roles,I need assistance with... leadership roles?,Our services can assist you with...,health,High
+Accommodation,Maintenance Requests,Where can I find... maintenance requests?,Our services can assist you with...,career,High
+Accommodation,Room Transfers,How do I... room transfers?,You should consider...,clubs,Medium
+Career Advice,Job Search,What are the steps for... job search?,Our services can assist you with...,library,High
+Accommodation,Roommate Issues,What should I do if... roommate issues?,You should consider...,mental health,Medium
+Financial Aid,Bursaries,How can I improve... bursaries?,The best option would be to...,IT support,Low
+Health Services,Health Insurance,Where can I find... health insurance?,You should consider...,career,High
+IT Support,Wi-Fi Issues,What resources are available for... wi-fi issues?,Here is a resource that might help...,finance,Medium
+Library Services,Printing Services,Is there a way to... printing services?,The best option would be to...,finance,Medium
+Academic Help,Assignment Help,How do I... assignment help?,It's best to reach out to...,mental health,Medium
+Clubs and Societies,Joining a Club,I need assistance with... joining a club?,Here is a resource that might help...,password,Medium
+IT Support,Email Problems,What should I do if... email problems?,You should consider...,job search,High
+Library Services,Online Resources,Can you help me with... online resources?,It's best to reach out to...,career,High
+IT Support,Email Problems,I need assistance with... email problems?,You can find more information at...,IT support,Medium
+Health Services,Emergency Services,Is there a way to... emergency services?,I recommend you contact...,library,Low
+Financial Aid,Loans,I need assistance with... loans?,Please visit...,exam,High
+Financial Aid,Bursaries,How do I... bursaries?,I recommend you contact...,exam,Low
+Library Services,Study Room Booking,Where can I find... study room booking?,You can try...,housing,Low
+Career Advice,Interview Tips,Where can I find... interview tips?,You can try...,IT support,High
+Library Services,Study Room Booking,Is there a way to... study room booking?,Our services can assist you with...,career,Low
+Financial Aid,Loans,What should I do if... loans?,Here is a resource that might help...,study,Low
+Mental Health,Depression,Can you help me with... depression?,It's best to reach out to...,finance,Low
+Accommodation,Roommate Issues,Who can I contact for... roommate issues?,Please visit...,password,Medium
+Financial Aid,Loans,Can you help me with... loans?,It's best to reach out to...,IT support,High
+Mental Health,Anxiety,Can you help me with... anxiety?,You may want to check...,stress,Low
+Career Advice,Interview Tips,How do I... interview tips?,The best option would be to...,job search,High
+Library Services,Online Resources,What resources are available for... online resources?,You should consider...,finance,Low
+IT Support,Wi-Fi Issues,Who can I contact for... wi-fi issues?,Here is a resource that might help...,housing,Medium
+Clubs and Societies,Club Events,What resources are available for... club events?,You can try...,library,High
+Accommodation,Maintenance Requests,What are the steps for... maintenance requests?,Here is a resource that might help...,mental health,Medium
+Financial Aid,Bursaries,I need assistance with... bursaries?,You may want to check...,stress,Medium
+Mental Health,Time Management,How do I... time management?,Please visit...,health,Medium
+Health Services,Vaccination,Is there a way to... vaccination?,Our services can assist you with...,scholarship,High
