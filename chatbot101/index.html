@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home | Loyalist college</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body id="chatbotPage"> <!-- ID for chatbot-specific background -->
+
+    <!-- Chatbot Icon -->
+    <div id="chatbotIcon">
+        <img src="image.jpg" alt="Chatbot Icon" />
+    </div>
+
+    <!-- Chat Container -->
+    <div class="chat-container" id="chatContainer" style="display: none;">
+        <div class="chat-header">
+            Chatbot 
+            <button id="minimizeButton" class="minimize-btn">−</button>
+        </div>
+        <div class="chatbox" id="chatbox">
+            <!-- Chat messages will appear here -->
+        </div>
+        
+
+        <div class="chat-input-container">
+            <input type="text" id="userInput" placeholder="Type a message..." />
+            <button onclick="sendMessage()">Send</button>
+            <button id="clearChat" onclick="clearChat()">Clear Chat</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
